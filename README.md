@@ -13,5 +13,14 @@ To make it HA you need to use keepalived for the haproxy component and add anoth
 
 
 
+## Blog Posts - chronologically recent to older  
+[OpenShift 4.2 vSphere Install Quickstart](https://blog.openshift.com/openshift-4-2-vsphere-install-quickstart/)  
+[OpenShift 4.2 Disconnected Install](https://blog.openshift.com/openshift-4-2-disconnected-install/)  
+[OpenShift 4.1 Bare Metal Install Quickstart](https://blog.openshift.com/openshift-4-bare-metal-install-quickstart/)  
+
+
+
+
+
 
 
