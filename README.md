@@ -7,6 +7,8 @@
 The Helpernode aims to take care of all the pre-intall prerequisites for OpenShift 4.  
 It is meant for Lab environments and POCs.  
 
+#### [OpenShift 4.2 POC Checklist (UPI)](https://docs.google.com/document/d/13ZA1nLpxbiHXNwl6IBEs1iyZ6-JnmBOBi1Fm2mTYo1I/edit#heading=h.61oc9cuaej8y)  
+
 *Note:*  
 The helpernode is a single point of failure. 
 To make it HA you need to use keepalived for the haproxy component and add another DNS server as a "slave"  
