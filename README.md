@@ -13,7 +13,7 @@ To make it HA you need to use keepalived for the haproxy component and add anoth
 
 
 ## Slide Decks
-[RHTE OpenShift Core Platform Roadmap](https://docs.google.com/presentation/d/1VuyT75QBuF-qyc1NA0NpnNoyyhg5bvcZsfXPu1oFtkE/edit#slide=id.g609ee0af91_7_9)  
+[RHTE OpenShift Core Platform Roadmap](https://docs.google.com/presentation/d/1VuyT75QBuF-qyc1NA0NpnNoyyhg5bvcZsfXPu1oFtkE/edit#slide=id.g609ee0af91_7_9)  October 2019  
 
 
 
