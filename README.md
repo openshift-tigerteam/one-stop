@@ -26,7 +26,7 @@ To make it HA you need to use keepalived for the haproxy component and add anoth
 
 
 ## Checklist
-[OpenShift 4.2 vSphere UPI checklist]https://docs.google.com/document/d/14t6FC7payHNDpvDbAmqDX14Te-e7Yda6GK3rwFuUJpc/edit?usp=sharing
+[OpenShift 4.2 vSphere UPI checklist](https://docs.google.com/document/d/14t6FC7payHNDpvDbAmqDX14Te-e7Yda6GK3rwFuUJpc/edit?usp=sharing)
 
 
 
