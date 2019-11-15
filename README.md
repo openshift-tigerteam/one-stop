@@ -25,7 +25,8 @@ To make it HA you need to use keepalived for the haproxy component and add anoth
 [OpenShift 4.1 Bare Metal Install Quickstart](https://blog.openshift.com/openshift-4-bare-metal-install-quickstart/)  
 
 
-
+##Checklist
+[OpenShift 4.2 vSphere UPI checklist]https://docs.google.com/document/d/14t6FC7payHNDpvDbAmqDX14Te-e7Yda6GK3rwFuUJpc/edit?usp=sharing
 
 
 
