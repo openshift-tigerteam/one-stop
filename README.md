@@ -1,5 +1,8 @@
 # This is a one-stop for OpenShift related blogs, guides and demos. Please report any broken links. 
 
+## Announcements
+
+4.4 Release date 6/19 (tentative as always)
 
 ## OCP4 Install Guides
 
