@@ -6,7 +6,7 @@
 
 ## OCP4 Install Guides
 
-#### [*OCS Install*](https://github.com/openshift/openshift-cns-testdrive/blob/ocp4-dev/workshop/content/ocs4.adoc)
+#### [*OCS Install*](https://github.com/openshift/openshift-cns-testdrive/blob/ocp4-dev/workshop/content/ocs4.adoc) From Ops Workshop to install OCS 4.2 
 
 
 #### [*Helper Node*](https://github.com/christianh814/ocp4-upi-helpernode)  - Christian Hernandez 
