@@ -6,6 +6,9 @@
 
 ## OCP4 Install Guides
 
+#### [*OCS Install*](https://github.com/openshift/openshift-cns-testdrive/blob/ocp4-dev/workshop/content/ocs4.adoc)
+
+
 #### [*Helper Node*](https://github.com/christianh814/ocp4-upi-helpernode)  - Christian Hernandez 
 The Helpernode aims to take care of all the pre-intall prerequisites for OpenShift 4.  
 It is meant for Lab environments and POCs.  
